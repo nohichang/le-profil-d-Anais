@@ -1,0 +1,10 @@
+.reseaux{
+  font-size: 32px;
+  color: #874c38ad ;
+  margin: 0px 30px;
+}
+
+  .reseaux:hover{
+  transition: 0.2s;
+  color: #6c3421;
+}

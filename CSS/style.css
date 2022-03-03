@@ -1,0 +1,41 @@
+@import url(components/container.css);
+@import url(components/avatar.css);
+@import url(components/button.css);
+@import url(components/banner.css);
+@import url(components/card-white.css);
+@import url(components/h2.css);
+@import url(components/card-grid.css);
+@import url(components/card-presentation.css);
+@import url(components/reseaux.css);
+@import url(components/button.css);
+@import url(components/contact.css);
+
+
+body {
+  margin: 0;
+  background-color: rgb(250, 238, 224);
+  color: rgb(134, 84, 57);
+  font-family: Libre Baskerville;
+}
+
+h2{
+  font-family: Libre Baskerville;
+  text-align: center;
+}
+
+h3{
+  font-family: Libre Baskerville;
+  text-align: center;
+  padding-top: 39px;
+  font-size: 24px;
+}
+
+ul{
+  list-style: none;
+  padding-left: 0px;
+  margin-top: 40px;
+}
+
+li{
+  display: inline;
+}

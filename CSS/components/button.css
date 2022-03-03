@@ -1,0 +1,38 @@
+.btn-pink {
+  text-decoration: none;
+  background-color: #874c38ad;
+  color: white;
+  font-size: 20px;
+  padding: 6px 28px;
+  border-radius: 8px;
+  border: solid 1px #6c3421;
+  float:left;
+}
+
+.btn-pink:hover {
+  background-color: white;
+  color: #6c3421;
+  transition: 0.5s;
+}
+
+
+@media(max-width: 500px) {
+  .card-white {
+    margin: 12px;
+  }
+
+  .img-card {
+    width: 96px;
+    height: 96px;
+    border-radius: 4px;
+  }
+
+  .card-white p {
+  font-size: 18px;
+  }
+
+  .card-content p {
+  margin: 4px;
+}
+
+}
